@@ -2,6 +2,7 @@
 Django Spotify API Web Project
 -----------------------
 START PROJECT
+
 1.) pyevn virtualenv name (*) -> * Sizin seçtiğiniz bir isim
 
 2.) pyenv activate name
