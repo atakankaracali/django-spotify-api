@@ -3,10 +3,15 @@ Django Spotify API Web Project
 -----------------------
 START PROJECT
 1.) pyevn virtualenv name (*) -> * Sizin seçtiğiniz bir isim
+
 2.) pyenv activate name
+
 3.) git clone git@github.com:atakankaracali/django-spotify-api.git
+
 4.) cd django-spotify-api
+
 5.) python manage.py runserver
+
 
 ------------------------
 MAIN PAGE
