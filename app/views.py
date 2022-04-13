@@ -13,8 +13,8 @@ def index(request):
         artist_url = request.POST.get("uri")
         spotify = spotipy.Spotify(
             client_credentials_manager=SpotifyClientCredentials(
-                client_id="869852868f4743d4a17532be3cebae62",
-                client_secret="54787e0112c34eb99392a94744d454f9",
+                client_id="YOUR CLIENT ID",
+                client_secret="YOUR CLIENT SECRET",
             )
         )
         results = spotify.artist_top_tracks(artist_url)
