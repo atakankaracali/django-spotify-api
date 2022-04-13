@@ -13,6 +13,33 @@ START PROJECT
 
 5.) python manage.py runserver
 
+------------------------
+
+HOW TO GET SPOTİFY ID?
+
+1.) https://develoepr.spotify.com
+
+2.) DASHBOARD -> LOGIN
+
+3.) CREATE AN APP  -> 
+
+
+![image](https://user-images.githubusercontent.com/53658645/163125985-24d792bb-2877-4c84-9048-78c2d64527ca.png)
+
+
+4.) Click Your App  ->
+
+
+![image](https://user-images.githubusercontent.com/53658645/163126184-83aebaa5-2e44-4eb5-a1e2-3358bd9fdfec.png)
+
+
+5.) Client ID and Client Secret  ->  app.views  paste
+
+
+![image](https://user-images.githubusercontent.com/53658645/163126490-96adc7ad-b32d-471e-b2f6-47bd48e81cb9.png)
+
+
+
 
 ------------------------
 MAIN PAGE
