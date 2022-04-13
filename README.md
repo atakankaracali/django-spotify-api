@@ -17,7 +17,7 @@ START PROJECT
 
 HOW TO GET SPOTİFY ID?
 
-1.) https://develoepr.spotify.com
+1.) https://developer.spotify.com
 
 2.) DASHBOARD -> LOGIN
 
